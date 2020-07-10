@@ -6,8 +6,8 @@
 </p>
 
 Learning MERN✡ Stack Developer.SelfTaught-Dev/Opensourcer🛠 I like to build things & Write things related to Web🌐🐱‍👤. 
-I'm ready for discussions and making new projects., write blogs on Dev.to etc. Find more about me on My 👉[Website](https://krishnadevz.github.io/).
-I also Contributed Few Opensource Organizations.🌠
+I'm ready for discussions and making new projects, write blogs on Dev.to etc.I also Contributed Few Opensource Organizations.🌠
+ Find more about me on My 👉[Website](https://krishnadevz.github.io/).
 
 
 * ✍🏻 I wrote dev articles on [dev.to](https://dev.to/krishnadevz) 
