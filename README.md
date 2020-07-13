@@ -6,7 +6,10 @@
 </p>
 SelfTaught-Dev/Opensourcer🛠 I like to build things & Write things related to Web🌐🐱‍👤. 
 I'm ready for discussions and making new projects.I like Contribute Opensource projects.🌠 
-  Find More details about me On my [Website] (https://krishnadevz.github.io)
+  
+* Find More details about me :-[Website](https://krishnadevz.github.io)
+* You can reach me at [krishnadevz@protonmail.com](mailto:krishnadevz@protonmail.com).
+ 
   
 
 ![krishna's github stats](https://github-readme-stats.vercel.app/api?username=krishnadevz&show_icons=true)
