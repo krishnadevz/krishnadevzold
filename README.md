@@ -6,7 +6,7 @@
 </p>
 
 Learning MERN✡ Stack Developer.SelfTaught-Dev/Opensourcer🛠 I like to build things & Write things related to Web🌐🐱‍👤. 
-I'm ready for discussions and making new projects, write blogs on Dev.to etc.I like Contribute Opensource projects.🌠
+I'm ready for discussions and making new projects.I like Contribute Opensource projects.🌠
  
 
 
@@ -20,6 +20,9 @@ I'm ready for discussions and making new projects, write blogs on Dev.to etc.I l
 [🚀 Firefox🦊 is the best browser for web-developers 💻🐱‍👤 🔥](https://dev.to/krishnakakade/firefox-is-the-best-browser-for-web-developers-49i7)
 
 [🌊 JSX beginners guide  ⚡️](https://dev.to/krishnakakade/jsx-beginners-guide-2nim)
+
+
+![krishna's github stats](https://github-readme-stats.vercel.app/api?username=krishnadevz&show_icons=true)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=krishnadevz.krishnadevz)
 
