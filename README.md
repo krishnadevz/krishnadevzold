@@ -14,5 +14,4 @@ I'm ready for discussions and making new projects.I like Contribute Opensource p
 
 ![krishna's github stats](https://github-readme-stats.vercel.app/api?username=krishnadevz&show_icons=true)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=krishnadevz.krishnadevz)
 
