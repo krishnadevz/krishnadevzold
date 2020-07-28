@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/krishnakakade/">Linkedin</a>
 </p>
 SelfTaught-Dev/Opensourcer🛠 I like to build things & Write things related to Web🌐🐱‍👤. 
-I'm ready for discussions and making new projects.I like Contribute Opensource projects.🌠 
+I'm ready for discussions and making new projects.I like to Contribute to the Opensource projects.🌠 
   
 * Find More details about me :-[Website](https://krishnadevz.github.io)
 * You can reach me at [krishnadevz@protonmail.com](mailto:krishnadevz@protonmail.com).
