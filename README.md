@@ -24,4 +24,4 @@ I'm ready for discussions and making new projects.I like to Contribute to the Op
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnadevz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![krishna's github stats](https://github-readme-stats.vercel.app/api?username=krishnadevz&show_icons=true)
-[![HitCount](http://hits.dwyl.com/krishnadevz/krishnadevz.svg)](http://hits.dwyl.com/krishnadevz/krishnadevz)
+<!--[![HitCount](http://hits.dwyl.com/krishnadevz/krishnadevz.svg)](http://hits.dwyl.com/krishnadevz/krishnadevz)-->
