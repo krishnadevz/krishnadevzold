@@ -4,8 +4,8 @@
   <a href="https://twitter.com/krishnadevz">Twitter</a> •
   <a href="https://www.linkedin.com/in/krishnakakade/">Linkedin</a>
 </p>
-SelfTaught-Dev/Opensourcer🛠 I like to build things & Write things related to Web🌐🐱‍👤. 
-I'm ready for discussions and making new projects.I like to Contribute to the Opensource projects.🌠 
+* SelfTaught-Dev/Opensourcer🛠 I like to build things & Write things related to Web🌐🐱‍👤. 
+* I'm ready for discussions and making new projects.I like to Contribute to the Opensource projects.🌠 
 
 **Languages:**  
 
