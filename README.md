@@ -29,4 +29,4 @@
 <!--[![HitCount](http://hits.dwyl.com/krishnadevz/krishnadevz.svg)](http://hits.dwyl.com/krishnadevz/krishnadevz)-->
 <h1 align="center">Trophies</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=krishnadevz&theme=onedark)](https://github.com/krishnadevz/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=krishnadevz&theme=onedark)](https://github.com/krishnadevz/github-profile-trophy)-->
