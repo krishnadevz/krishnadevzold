@@ -27,6 +27,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnadevz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![krishna's github stats](https://github-readme-stats.vercel.app/api?username=krishnadevz&show_icons=true)
 <!--[![HitCount](http://hits.dwyl.com/krishnadevz/krishnadevz.svg)](http://hits.dwyl.com/krishnadevz/krishnadevz)-->
-<h1 align="center">Trophies</h1>
 
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=krishnadevz&theme=onedark)](https://github.com/krishnadevz/github-profile-trophy)-->
+
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=krishnadevz&theme=onedark)](https://github.com/krishnadevz/github-profile-trophy)<h1 align="center">Trophies</h1>-->
