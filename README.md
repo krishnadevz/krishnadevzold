@@ -24,8 +24,8 @@
 * Find More details about me :-[Website](https://krishnadevz.github.io)
 * You can reach me at [krishnadevz@protonmail.com](mailto:krishnadevz@protonmail.com).
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnadevz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![krishna's github stats](https://github-readme-stats.vercel.app/api?username=krishnadevz&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnadevz&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![krishna's github stats](https://github-readme-stats.vercel.app/api?username=krishnadevz&show_icons=true&theme=dracula)
 <!--[![HitCount](http://hits.dwyl.com/krishnadevz/krishnadevz.svg)](http://hits.dwyl.com/krishnadevz/krishnadevz)-->
 
 
