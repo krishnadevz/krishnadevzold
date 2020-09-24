@@ -7,7 +7,7 @@
 
 * SelfTaught-Dev/Opensourcer🛠 I like to build things & Write things related to Web🌐🐱‍👤. 
 * I'm ready for discussions and making new projects.I like to Contribute to the Opensource projects.🌠 
-* Check it out my latest blogs/articles here on 👉 [Dev.to](dev.to/krishnakakade)
+* Check it out my latest blogs/articles here on 👉 [Dev.to](https://dev.to/krishnakakade)
 
 **Languages:**  
 
