@@ -1,4 +1,4 @@
-<h1 align="center">Hello World👋</h1>
+<h2 align="center">Hello World👋</h2>
 <p align="center">
   <a href="https://krishnadevz.github.io/">Website</a> •
   <a href="https://twitter.com/krishnadevz">Twitter</a> •
@@ -27,8 +27,8 @@
 
  
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnadevz&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
-![krishna's github stats](https://github-readme-stats.vercel.app/api?username=krishnadevz&show_icons=true&theme=dracula)
-<!--[![HitCount](http://hits.dwyl.com/krishnadevz/krishnadevz.svg)](http://hits.dwyl.com/krishnadevz/krishnadevz)-->
+![krishna's github stats](https://github-readme-stats.vercel.app/api?username=krishnadevz&show_icons=true)
+<!--[![HitCount](http://hits.dwyl.com/krishnadevz/krishnadevz.svg)](http://hits.dwyl.com/krishnadevz/krishnadevz)//&//theme=dracula-->
 
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=krishnadevz&theme=onedark)](https://github.com/krishnadevz/github-profile-trophy)<h1 align="center">Trophies</h1>-->
