@@ -3,6 +3,7 @@
   <a href="https://krishnadevz.github.io/">Website</a> •
   <a href="https://twitter.com/krishnadevz">Twitter</a> •
   <a href="https://www.linkedin.com/in/krishnakakade/">Linkedin</a>
+  <a href="https://www.youtube.com/channel/UCTtvSf6G8KHpeh2i8t48PsQ">YouTube🎞️</a>
 </p>
 
 * SelfTaught-Dev/Opensourcer🛠 I like to build things & Write things related to Web🌐🐱‍👤. 
