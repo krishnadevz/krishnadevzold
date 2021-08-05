@@ -1,11 +1,10 @@
 <h2 align="center">Hello World👋</h2>
 <p align="center">
-  <a href="https://krishnadevz.github.io/">Website</a> •
   <a href="https://twitter.com/krishnadevz">Twitter</a> •
   <a href="https://www.linkedin.com/in/krishnakakade/">Linkedin</a>
-  <a href="https://www.youtube.com/channel/UCTtvSf6G8KHpeh2i8t48PsQ">YouTube🎞️</a>
 </p>
 
+* I am OpenToWork for webdevelopment/frontend-development related roles. 
 * SelfTaught-Dev/Opensourcer🛠 I like to build things & Write things related to Web🌐🐱‍👤. 
 * I'm ready for discussions and making new projects.I like to Contribute to the Opensource projects.🌠
 * I'm in for Frontend development related Opportunities. 
