@@ -7,7 +7,6 @@
 * I am OpenToWork for webdevelopment/frontend-development related roles. 
 * SelfTaught-Dev/Opensourcer🛠 I like to build things & Write things related to Web🌐🐱‍👤. 
 * I'm ready for discussions and making new projects.I like to Contribute to the Opensource projects.🌠
-* I'm in for Frontend development related Opportunities. 
 * Check it out my latest blogs/articles here on 👉 [Dev.to](https://dev.to/krishnakakade)
 * Find More details about me :-[Website](https://krishnadevz.github.io)
 * You can reach me at [krishnadevz@protonmail.com](mailto:krishnadevz@protonmail.com).
